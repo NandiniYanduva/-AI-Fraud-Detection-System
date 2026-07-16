@@ -1,0 +1,19 @@
+FRAUD ALERT
+=======================================================
+
+What Happened
+A transaction of $4519.04 was made online in Boston at 1:00 PM. This online purchase was made using your credit card.
+
+Why We Are Concerned
+- The transaction amount of $4519.04 is higher than average.
+- There were 13 transactions in the last 24 hours, which is unusually high.
+
+Is Your Account Safe
+Our system detected this transaction as potentially fraudulent. Your account is being monitored for safety.
+
+What To Do Now
+1. Check if you made this transaction.
+2. Reply SAFE to confirm.
+3. Call Cyber Crime Helpline: 1930 if not you.
+4. Report at cybercrime.gov.in.
+5. Block your card by sending BLOCK to 567676.

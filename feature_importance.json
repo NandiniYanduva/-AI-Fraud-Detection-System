@@ -1,0 +1,40 @@
+{
+    "top_features_impacting_fraud": [
+        {
+            "rank": 1,
+            "feature_name": "High_Amount_Flag",
+            "importance_percent": 11.95,
+            "interpretation": "Amount within safe boundary"
+        },
+        {
+            "rank": 2,
+            "feature_name": "Transaction_Amount",
+            "importance_percent": 10.58,
+            "interpretation": "Above average ₹4519.04 → moderate risk"
+        },
+        {
+            "rank": 3,
+            "feature_name": "Transaction_Type",
+            "importance_percent": 9.92,
+            "interpretation": "Type: Online Purchase"
+        },
+        {
+            "rank": 4,
+            "feature_name": "Location",
+            "importance_percent": 9.9,
+            "interpretation": "Transaction from Boston"
+        },
+        {
+            "rank": 5,
+            "feature_name": "Number_of_Transactions_Last_24H",
+            "importance_percent": 9.89,
+            "interpretation": "13 transactions → unusually high"
+        },
+        {
+            "rank": 6,
+            "feature_name": "Time_of_Transaction",
+            "importance_percent": 9.77,
+            "interpretation": "13:00 → normal hours"
+        }
+    ]
+}
